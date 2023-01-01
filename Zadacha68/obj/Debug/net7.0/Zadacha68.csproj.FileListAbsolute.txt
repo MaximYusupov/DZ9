@@ -1,0 +1,15 @@
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\bin\Debug\net7.0\Zadacha68.exe
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\bin\Debug\net7.0\Zadacha68.deps.json
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\bin\Debug\net7.0\Zadacha68.runtimeconfig.json
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\bin\Debug\net7.0\Zadacha68.dll
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\bin\Debug\net7.0\Zadacha68.pdb
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.dll
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\refint\Zadacha68.dll
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.pdb
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\Zadacha68.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\DZ9\Zadacha68\obj\Debug\net7.0\ref\Zadacha68.dll
